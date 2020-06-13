@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.app {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+h1 {
+    font-size: 25px;
+    color: #000;
+}
+
+.btn {
+    text-decoration: none;
+    display: inline-block;
+    text-transform: uppercase;
+    padding: 10px 20px;
+    border: 1px solid cornflowerblue;
+    margin-top: 25px;
+    background-color: #2274A5;
+    color: #ffff;
+    font-size: 16px;
+}
